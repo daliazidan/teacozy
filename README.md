@@ -1,2 +1,2 @@
 # teacozy
-link to website: file:///Users/daliazidan/Tea%20Cozy/index.html#
+Please access the "Tea Cozy" website here: https://teacozyprojectcode.netlify.app/. 
